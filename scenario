@@ -1,0 +1,10 @@
+Descrizione dello scenario:
+Il progetto "BookTrack" è un'applicazione web che permette agli appassionati di libri di gestire in modo efficiente la propria collezione di libri. Gli utenti possono registrarsi all'applicazione fornendo un nome, un indirizzo email univoco, una password e uno stato che indica se l'account è attivo o disattivo.
+
+Una volta registrati, gli utenti possono inserire i libri che possiedono nella propria libreria personale. Ogni libro viene catalogato con informazioni dettagliate, tra cui titolo, autore, genere e, opzionalmente, un'immagine della copertina e il numero di pagine. Gli utenti possono anche aggiungere libri a una lista dei desideri, indicando una priorità e una nota associata, ad esempio, per scopi accademici o personali.
+
+Gli utenti hanno la possibilità di tenere traccia delle proprie letture, registrando la data di inizio, la data di fine e il tempo impiegato per leggere un determinato libro. Inoltre, possono aggiungere commenti e feedback riguardo alle proprie letture. Per lo stesso libro, è possibile inserire recensioni multiple nel tempo, poiché la percezione di una storia e l'analisi dello stile possono variare nel corso del tempo e con l'età.
+
+Alcune ipotesi fatte includono l'esistenza di un elenco predefinito di generi di libri, la possibilità per gli utenti di aggiungere libri alla propria libreria personale e alla lista dei desideri, e la capacità di tenere traccia delle letture e scrivere recensioni.
+
+Nota: Questa è solo una descrizione dello scenario e non comprende ancora lo schema concettuale, lo schema logico, lo schema fisico e l'applicazione web. Possiamo procedere con la creazione dello schema concettuale basato su questa descrizione.
